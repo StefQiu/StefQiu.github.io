@@ -1,0 +1,7 @@
+Hello
+
+<<<<<<< HEAD
+22dfsdfsdf
+=======
+22sdasdsadsadsadasds
+>>>>>>> develop
